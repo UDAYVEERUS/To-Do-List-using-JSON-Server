@@ -1,0 +1,39 @@
+body{
+    background-color: lightslategray;
+}
+.content{
+    display: flex;
+}
+#dataAddForm{
+    padding: 30px;
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.553);
+}
+#container *{
+    justify-content: center;
+    /* margin-top: 200px; */
+}
+h1{
+    text-align: center;
+}
+button{
+    border-radius: 10px;
+    padding: 4px;
+    margin: 22px;
+}
+button:hover{
+    background-color: #5a5151;
+    font-size: large;
+}
+input{
+    padding: 10px;
+    border-radius: 5px;
+}
+#status{
+    padding: 10px;
+}
+button{
+    width: 70px;
+}
